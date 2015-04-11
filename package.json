@@ -29,7 +29,6 @@
     "hubot-thesimpsons": "*",
     "hubot-tell": "*",
     "hubot-mute": "*",
-    "hubot-reaction": "*",
     "hubot-outofcontext": "*",
     "hubot-soon": "*",
     "hubot-seen": "*"
