@@ -31,8 +31,8 @@
     "hubot-mute": "*",
     "hubot-outofcontext": "*",
     "hubot-soon": "*",
-    "hubot-seen": "*"
-
+    "hubot-seen": "*",
+    "hubot-thecat": "*"
   },
   "engines": {
     "node": "0.10.x"
