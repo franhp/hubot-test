@@ -41,9 +41,9 @@ module.exports = function ( robot ) {
         ];
         var ix;
         var question = msg.match[ 1 ];
-        
+
         //Because sometimes I just want someone to agree with me
-        if ( msg.user.name.toLowerCase() === 'mrweeble' ) {
+        if ( msg.message.user.name.toLowerCase() === 'mrweeble' ) {
             if ( /isn't [^ ]+$/.test( question ) ) {
                 ix = Math.floor( Math.random() * 7 );
             } else if ( /is [^ ]+$/.test( question ) ) {
