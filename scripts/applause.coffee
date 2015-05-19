@@ -59,7 +59,9 @@ images =
     "http://i.imgur.com/YfrikPR.gif",
     "http://i.imgur.com/sBEFqYR.gif",
     "http://i.imgur.com/Sx8iAS8.gif",
-    "http://i.imgur.com/5zKXz.gif"
+    "http://i.imgur.com/5zKXz.gif",
+    "http://www.reactiongifs.us/wp-content/uploads/2013/10/clapping_ken_toy_story.gif",
+    "http://i53.tinypic.com/ng4sck.jpg"
   ]
 
 module.exports = (robot) ->
