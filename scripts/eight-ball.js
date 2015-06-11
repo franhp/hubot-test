@@ -17,6 +17,8 @@
 
 module.exports = function ( robot ) {
     robot.respond( /8[ \-]?ball (.*)/i, function ( msg ) {
+        var version = '1.0.0';
+
         var responses = [
             "It is certain",
             "It is decidedly so",
@@ -41,6 +43,14 @@ module.exports = function ( robot ) {
         ];
         var ix;
         var question = msg.match[ 1 ];
+
+        if ( question === 'whoami' ) {
+            msg.reply( msg.message.user.name );
+            return;
+        } else if ( question === 'ver') {
+            msg.reply( version );
+            return;
+        }
 
         //Because sometimes I just want someone to agree with me
         if ( msg.message.user.name.toLowerCase() === 'mrweeble' ) {
