@@ -34,7 +34,7 @@
     "hubot-seen": "*",
     "hubot-thecat": "*",
     "hubot-reddit": "*",
-    "hubot-rae": "*"
+    "hubot-rae": "*",
     "hubot-whatthecommit": "*"
   },
   "engines": {
