@@ -33,7 +33,9 @@
     "hubot-soon": "*",
     "hubot-seen": "*",
     "hubot-thecat": "*",
-    "hubot-pokemon": "*"
+    "hubot-reddit": "*",
+    "hubot-rae": "*"
+    "hubot-whatthecommit": "*"
   },
   "engines": {
     "node": "0.10.x"
