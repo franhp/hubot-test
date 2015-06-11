@@ -32,7 +32,8 @@
     "hubot-outofcontext": "*",
     "hubot-soon": "*",
     "hubot-seen": "*",
-    "hubot-thecat": "*"
+    "hubot-thecat": "*",
+    "hubot-pokemon": "*"
   },
   "engines": {
     "node": "0.10.x"
