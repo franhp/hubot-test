@@ -32,7 +32,10 @@
     "hubot-outofcontext": "*",
     "hubot-soon": "*",
     "hubot-seen": "*",
-    "hubot-thecat": "*"
+    "hubot-thecat": "*",
+    "hubot-reddit": "*",
+    "hubot-rae": "*",
+    "hubot-whatthecommit": "*"
   },
   "engines": {
     "node": "0.10.x"

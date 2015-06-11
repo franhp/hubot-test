@@ -24,5 +24,8 @@
   "hubot-outofcontext",
   "hubot-soon",
   "hubot-seen",
-  "hubot-thecat"
+  "hubot-thecat",
+  "hubot-reddit",
+  "hubot-rae",
+  "hubot-whatthecommit"
 ]
